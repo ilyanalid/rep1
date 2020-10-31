@@ -1,4 +1,5 @@
 import pytest
+import numpy as np
 from my_mathematics.vector import Vector
 
 @pytest.mark.parametrize("v1,v2",[([1,2,3],[3,4,5]),([-4,-10,3],[2,14,6]),([0,0,0],[0,0,0])])
