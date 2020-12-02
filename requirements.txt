@@ -6,3 +6,4 @@ aiohttp
 aiofile 
 fastapi
 itertools 
+bs4
